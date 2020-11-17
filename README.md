@@ -1,5 +1,5 @@
 <h1 align="center">⚡️ Fala Time, o meu nome é Luiz Fernando Thomaz ⚡️</h1>
-<h4 align="center"><a href="https://twitter.com/lftho">Twitter</a> &bull;<a href="https://github.com/Lftho">GITHUB</a> &bull; <a href="https://www.linkedin.com/in/lftho/">LinkedIn</a></h4>
+<h4 align="center"><a href="https://twitter.com/lftho">Twitter</a> &bull;<a href="https://github.com/Lftho">Github</a> &bull; <a href="https://www.linkedin.com/in/lftho/">LinkedIn</a></h4>
 
 ---
 
