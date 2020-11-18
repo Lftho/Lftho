@@ -11,7 +11,7 @@ Oi, vi você lá no Github e queria conversa com você, podemos ?
 
 ---
 
-Eu sou desenvolvedor front-end da [accenture](https://www.accenture.com/br-pt) e iniciando nesse mundo meio doido de design de interfaces 🏰
+Eu sou desenvolvedor front-end na [accenture](https://www.accenture.com/br-pt) e iniciando nesse mundo meio doido de design de interfaces 🏰
 
 - 🌏 Eu moro em São Paulo, Brasil
 - 🔭 Atualmente estou trabalhando na [accenture](https://www.accenture.com/br-pt)
