@@ -7,7 +7,7 @@
 
 <!-- Message -->
 
-Oi, vi você lá no Github e queria conversa com você, podemos ?
+Caso precisa falar comigo, pode me chamar no <a href="https://www.linkedin.com/in/lftho/">LinkedIn</a>
 
 ---
 
