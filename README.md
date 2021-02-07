@@ -3,20 +3,17 @@
 
 ---
 
-### Precisando manda uma mensagem <!-- From -->
+### Caso queira falar comigo ⬇️  <!-- From -->
 
 <!-- Message -->
 
-Caso precisa falar comigo, pode me chamar no <a href="https://www.linkedin.com/in/lftho/">LinkedIn</a>
+Pode me chamar aqui <a href="https://www.linkedin.com/in/lftho/">LinkedIn</a>
 
 ---
 
-Eu sou desenvolvedor front-end na [accenture](https://www.accenture.com/br-pt) e iniciando nesse mundo meio doido de design de interfaces 🏰
+Gosto muito do mundo meio doido de UI 🏰
 
-- 🌏 Eu moro em São Paulo, Brasil
-- 🔭 Atualmente estou trabalhando na [accenture](https://www.accenture.com/br-pt)
-- 🌱 Atualmente, estou aprendendo Angular e tirando a certificação AZ-900
-- 💬 Pergunte-me sobre JavaScript e UI
-- 📫 Como me encontrar: [Luiz Fernando Thomaz](https://www.linkedin.com/in/lftho)
-- 🎧 Ouvindo: [Alok - Alive it Feels Like](https://www.youtube.com/watch?v=Xv-jqVmSRYw&list=RDXv-jqVmSRYw&start_radio=1)
-- ⚡ Curiosidade: Prático Downhill
+- 🌏  Eu moro em São Paulo, Brasil
+- 🔭  Atualmente estou trabalhando na [accenture](https://www.accenture.com/br-pt)
+- 🌱  Atualmente, estou aprendendo Angular e tirando a certificação AZ-900
+- ⚡  Curiosidade: Prático Downhill 🚵🏻. Crossfit 🏋🏻‍♂️, Corro 🏃🏻‍♂️, Natação 🏊🏻‍♂️ e Surf 🏄🏻‍♂️
