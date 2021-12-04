@@ -3,6 +3,7 @@
 🌏  Eu moro em São Paulo, Brasil <br/>
 🔭  Atualmente estou trabalhando na [accenture](https://www.accenture.com/br-pt) <br/>
 🌱  Estudando novas soluções com Angular - Lendo o "Angular Projects - Second Edition" (recomendo) <br/>
+👨🏽‍💻  Link: <a href="https://docs.google.com/document/d/1vtohmQ6Ny6pecI_KZ_yacNH0poeIaJKCbkSAeFmLd7A/edit?usp=sharing">Currículo</a>
 
 ## Ferramentas de aprendizado durante o estudo
 
@@ -13,11 +14,4 @@
 - Electron (Adicionando uma biblioteca do editor WYSIWYG / Empacotando um aplicativo de desktop)
 - PWA (modo offline com o service worker / Mantendo atualizado com as notificações no aplicativo)
 
-## Livro de estudo - A Arte do Micro Frontends
 
-Deixarei o link de artigo que estou fazendo baseado ao livro.
-
-Link: <a href="#breve">Em Breve</a>
-
- <br/> <br/> <br/>
-Att, Luiz Fernando
