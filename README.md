@@ -5,13 +5,13 @@
 
 👨🏽‍💻  Link: <a href="https://docs.google.com/document/d/1vtohmQ6Ny6pecI_KZ_yacNH0poeIaJKCbkSAeFmLd7A/edit?usp=sharing">Currículo</a>
 
-## Ferramentas de aprendizado durante o estudo
+## Aprendizado de 2021
 
 - Firebase (Cloud, Banco de dados)
 - Ionic || PWA (modo offline com o service worker / Mantendo atualizado com as notificações no aplicativo)
 - CesiumJS
 
-## Novo aprendizados para 2022
+## Novos aprendizados para 2022
 
 Estou estudando bastante parte técnica(principalmente novo design patterns) e código limpo (clean code) para melhorar os meus conceitos diantes problemas reais que acabo pegando. Com tudo isso neste ano quero aprender a lib ReactJS acho simples, mas tudo que é simples, é complicado então mesmo assim irei de cabeça para aprender.
 
