@@ -35,12 +35,12 @@ Porque saberei qual é o horário que abre/fecha, obstáculos que tem no local, 
 No primeiro momento estou desenvolvendo em Angular 8, farei o serviço com NodeJS e seguindo pro mobile deixarei o PWA do Angular para cuidar dessa parte. Após todo desenvolvimento aos poucos vou migrando o projeto de Angular para ReactJS para colocar em prática todo processo de aprendizando durante o estudo.-->
 
 ## learn: 
-  Design Patterns
-  Angular
-  NodeJS
-  Reac-tNative
-  ReactJS
-  Cloud - AZ-900
+  Design Patterns<br>
+  Angular<br>
+  NodeJS<br>
+  Reac-tNative<br>
+  ReactJS<br>
+  Cloud - AZ-900<br>
   Inglês - conversação 
 
 
