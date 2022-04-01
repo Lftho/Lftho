@@ -19,29 +19,17 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
  
-<!-- ## Aprendizado de 2021
+<!-- ## Aprendizado de 2021 ## -->
 
 - Firebase (Cloud, Banco de dados)
 - Ionic || PWA (modo offline com o service worker / Mantendo atualizado com as notificações no aplicativo)
 - CesiumJS 
 
-## Novos aprendizados para 2022
 
-Estou estudando bastante parte técnica(principalmente novo design patterns) e código limpo (clean code) para melhorar os meus conceitos diantes problemas reais que acabo pegando. Com tudo isso neste ano quero aprender a lib ReactJS acho simples, mas tudo que é simples, é complicado então mesmo assim irei de cabeça para aprender.
-
-Uns dos meus objetivos é desenvolver uma plataforma para o meu hobby, assim não terei mais dor de cabeça ao sair de casa. 
-Porque saberei qual é o horário que abre/fecha, obstáculos que tem no local, se precisa de equipamento entre outros pontos que esta sendo desenvolvido. 
-
-No primeiro momento estou desenvolvendo em Angular 8, farei o serviço com NodeJS e seguindo pro mobile deixarei o PWA do Angular para cuidar dessa parte. Após todo desenvolvimento aos poucos vou migrando o projeto de Angular para ReactJS para colocar em prática todo processo de aprendizando durante o estudo.-->
-
-## learn: 
-  Design Patterns<br>
+## learn:
   Angular<br>
-  NodeJS<br>
-  Reac-tNative<br>
+  React Native<br>
   ReactJS<br>
-  Cloud - AZ-900<br>
-  Inglês - conversação 
 
 
   Feito por 💜 - <a href="https://www.linkedin.com/in/lftho/">Lftho</a> :wave:
