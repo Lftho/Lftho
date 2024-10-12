@@ -1,22 +1,29 @@
+# 👋 Hi, I'm [Luiz Fernando Thomaz]
 
-🌏  I live São Paulo, Brasil <br/>
-🔭  Work [accenture](https://www.accenture.com/br-pt) <br/>
+🌍 I live in São Paulo, Brazil  
+🔭 Software Engineer at Bemol SA - AM  
+💻 Specializing in Angular and Tailwind CSS
 
-👨🏽‍💻  Trophy <a href="https://docs.google.com/document/d/1vtohmQ6Ny6pecI_KZ_yacNH0poeIaJKCbkSAeFmLd7A/edit?usp=sharing">Resume</a>
+---
 
-<div align="left">
-  <a href="https://github.com/Lftho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lftho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lftho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 🔧 Technologies & Tools I Work With:
+- Angular
+- Tailwind CSS
+- TypeScript
+- API integrations
 
+---
 
-## learn:
-  Angular || PWA<br>
-  React Native<br>
-  ReactJS<br>
-  Ionic<br>
-  Firebase
+## 🌱 Learning & Exploring:
+- Advanced frontend architecture
+- Web performance optimization
+- Modern design patterns in frontend development
 
-  Feito por 💜 - <a href="https://www.linkedin.com/in/lftho/">Lftho</a> :wave:
+---
 
+### Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/lftho/)
+
+---
+
+💜 Made with passion by [Luiz Fernando Thomaz]
