@@ -65,18 +65,6 @@ tarefa. O artefato que sobra não é só o código; é a documentação que expl
 <!-- CONFIRMAR: RxJS, Docker e CI/CD ainda são inferência, não foram confirmados.
      Só entra aqui o que você sustenta em uma entrevista de 20 minutos. -->
 
-## Projetos em destaque
-
-| Projeto | O que resolve | Stack |
-| :-- | :-- | :-- |
-| [nome-do-repo](https://github.com/Lftho/nome-do-repo) | Uma frase sobre o problema, não sobre o código. | Next.js, NestJS |
-| [nome-do-repo](https://github.com/Lftho/nome-do-repo) | Uma frase sobre o problema, não sobre o código. | FastAPI, PostgreSQL |
-| [nome-do-repo](https://github.com/Lftho/nome-do-repo) | Uma frase sobre o problema, não sobre o código. | Python, MCP, OpenSpec |
-
-<!-- Esta seção é a mais importante do perfil e a que hoje não existe.
-     Três projetos próprios, com README decente, dizem mais que qualquer lista de skills.
-     Enquanto não houver três, deixe dois. Nunca preencha com fork de bootcamp. -->
-
 ## Estudando agora
 
 - Arquitetura de front-end em aplicações de médio porte
@@ -125,14 +113,6 @@ task. What's left behind isn't just code; it's the documentation explaining why 
 | **Data** | PostgreSQL · MySQL · MongoDB |
 | **AI & specs** | Claude Code · MCP · OpenSpec · SDD |
 | **Tooling** | Git · Docker · CI/CD |
-
-### Selected projects
-
-| Project | What it solves | Stack |
-| :-- | :-- | :-- |
-| [repo-name](https://github.com/Lftho/repo-name) | One sentence about the problem, not the code. | Next.js, NestJS |
-| [repo-name](https://github.com/Lftho/repo-name) | One sentence about the problem, not the code. | FastAPI, PostgreSQL |
-| [repo-name](https://github.com/Lftho/repo-name) | One sentence about the problem, not the code. | Python, MCP, OpenSpec |
 
 ### Currently learning
 
