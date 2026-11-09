@@ -1,7 +1,7 @@
 <h1 align="center">Luiz Fernando Thomaz</h1>
 
 <p align="center">
-  Software Engineer &nbsp;·&nbsp; Front-end Angular/TypeScript &nbsp;·&nbsp; Automação de processos com dados e IA
+  Software Engineer &nbsp;·&nbsp; Front-end e APIs &nbsp;·&nbsp; Desenvolvimento guiado por especificação com IA
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 ---
 
-Engenheiro de software em São Paulo. Trabalho com aplicações web em **Angular + TypeScript** e, em paralelo,
-desenho **automações** que conectam dados de marketplace, APIs de mídia e agentes de IA para transformar trabalho
-manual e repetitivo em rotina previsível.
+Engenheiro de software em São Paulo. Construo aplicações web de ponta a ponta — interface em Angular, React e
+Next.js, APIs em NestJS e FastAPI — e, em paralelo, desenho **automações** que conectam dados de marketplace,
+APIs de mídia e agentes de IA para transformar trabalho manual e repetitivo em rotina previsível.
 
 O critério que uso para considerar algo pronto é sempre o mesmo: **se o processo não pode ser executado por outra
 pessoa — ou por um agente — sem mim no meio, ele ainda não está terminado.**
@@ -33,16 +33,21 @@ pessoa — ou por um agente — sem mim no meio, ele ainda não está terminado.
 ## No que eu trabalho
 
 **Front-end de produto**
-Aplicações Angular com TypeScript e Tailwind: componentização reutilizável, integração com APIs REST,
-performance de carregamento e padronização de código para trabalho em time.
+Interfaces em Angular, React e Next.js com TypeScript e Tailwind: componentização reutilizável, consumo de API,
+performance de carregamento e padronização de código que se sustenta em time.
 
-**Integração e automação de dados**
-Rotinas que leem dados de marketplaces e plataformas de mídia, normalizam o resultado e entregam onde a
-decisão realmente acontece — planilha, dashboard ou mensagem — sem passo manual no caminho.
+**APIs e modelagem de dados**
+Serviços em NestJS e FastAPI sobre PostgreSQL, MySQL e MongoDB. Integrações que leem dados de marketplaces e
+plataformas de mídia, normalizam o resultado e entregam onde a decisão acontece — planilha, dashboard ou
+mensagem — sem passo manual no caminho.
 
-**Agentes de IA aplicados a processo**
-Uso de MCP e Claude Code para empacotar um processo em algo reexecutável: entrada definida, etapas
-versionadas e saída auditável. Curadoria de dados, geração de conteúdo e relatórios recorrentes.
+**Desenvolvimento guiado por especificação (SDD)**
+Antes de gerar código com IA, escrevo a especificação: o que muda, por que muda e qual é o critério de aceite.
+Uso [OpenSpec](https://github.com/Fission-AI/openspec) para manter esse ciclo dentro do próprio repositório —
+propor, implementar, arquivar — de forma que o agente trabalhe contra um contrato explícito em vez de adivinhar
+a intenção. A especificação arquivada passa a descrever o estado atual do sistema, e é isso que mantém o padrão:
+mesma estrutura, mesma convenção e mesmo nível de teste, independente de quem — ou de qual agente — executou a
+tarefa. O artefato que sobra não é só o código; é a documentação que explica por que ele é daquele jeito.
 
 <!-- Regra dos blocos: no máximo 3, e cada um precisa descrever um PROCESSO, não uma tecnologia.
      Se der para trocar o nome da ferramenta e o texto continuar verdadeiro, está genérico demais. -->
@@ -51,21 +56,22 @@ versionadas e saída auditável. Curadoria de dados, geração de conteúdo e re
 
 | | |
 | :-- | :-- |
-| **Front-end** | Angular · TypeScript · RxJS · Tailwind CSS · HTML/CSS |
-| **Back-end & dados** | Node.js · APIs REST · SQL |
-| **Automação & IA** | Claude Code · MCP · Python |
-| **Tooling** | Git · Docker · CI/CD · Azure |
+| **Front-end** | Angular · React · Next.js · TypeScript · RxJS · Tailwind CSS |
+| **Back-end** | Node.js · NestJS · Python · FastAPI · APIs REST |
+| **Dados** | PostgreSQL · MySQL · MongoDB |
+| **IA & especificação** | Claude Code · MCP · OpenSpec · SDD |
+| **Tooling** | Git · Docker · CI/CD |
 
-<!-- CONFIRMAR cada linha. Só entra aqui o que você sustenta em uma entrevista de 20 minutos.
-     Uma tabela curta e verdadeira vale mais do que 30 badges coloridos. -->
+<!-- CONFIRMAR: RxJS, Docker e CI/CD ainda são inferência, não foram confirmados.
+     Só entra aqui o que você sustenta em uma entrevista de 20 minutos. -->
 
 ## Projetos em destaque
 
 | Projeto | O que resolve | Stack |
 | :-- | :-- | :-- |
-| [nome-do-repo](https://github.com/Lftho/nome-do-repo) | Uma frase sobre o problema, não sobre o código. | Angular, TypeScript |
-| [nome-do-repo](https://github.com/Lftho/nome-do-repo) | Uma frase sobre o problema, não sobre o código. | Node.js, API |
-| [nome-do-repo](https://github.com/Lftho/nome-do-repo) | Uma frase sobre o problema, não sobre o código. | Python, MCP |
+| [nome-do-repo](https://github.com/Lftho/nome-do-repo) | Uma frase sobre o problema, não sobre o código. | Next.js, NestJS |
+| [nome-do-repo](https://github.com/Lftho/nome-do-repo) | Uma frase sobre o problema, não sobre o código. | FastAPI, PostgreSQL |
+| [nome-do-repo](https://github.com/Lftho/nome-do-repo) | Uma frase sobre o problema, não sobre o código. | Python, MCP, OpenSpec |
 
 <!-- Esta seção é a mais importante do perfil e a que hoje não existe.
      Três projetos próprios, com README decente, dizem mais que qualquer lista de skills.
@@ -84,9 +90,9 @@ versionadas e saída auditável. Curadoria de dados, geração de conteúdo e re
 
 <h2 id="english">English</h2>
 
-Software engineer based in São Paulo. I work on web applications with **Angular + TypeScript** and, alongside
-that, I design **automations** that connect marketplace data, media APIs and AI agents to turn manual, repetitive
-work into a predictable routine.
+Software engineer based in São Paulo. I build web applications end to end — interfaces in Angular, React and
+Next.js, APIs in NestJS and FastAPI — and, alongside that, I design **automations** that connect marketplace
+data, media APIs and AI agents to turn manual, repetitive work into a predictable routine.
 
 My bar for calling something finished is always the same: **if the process can't be run by someone else — or by an
 agent — without me in the middle, it isn't finished yet.**
@@ -94,33 +100,39 @@ agent — without me in the middle, it isn't finished yet.**
 ### What I work on
 
 **Product front-end**
-Angular applications with TypeScript and Tailwind: reusable components, REST API integration, load performance
-and code standards that hold up in a team.
+Interfaces in Angular, React and Next.js with TypeScript and Tailwind: reusable components, API consumption,
+load performance and code standards that hold up in a team.
 
-**Data integration & automation**
-Routines that read data from marketplaces and media platforms, normalize it and deliver it where decisions are
-actually made — spreadsheet, dashboard or message — with no manual step in between.
+**APIs and data modeling**
+Services in NestJS and FastAPI over PostgreSQL, MySQL and MongoDB. Integrations that read data from marketplaces
+and media platforms, normalize it and deliver it where decisions are made — spreadsheet, dashboard or message —
+with no manual step in between.
 
-**AI agents applied to process**
-Using MCP and Claude Code to package a process into something re-runnable: defined input, versioned steps,
-auditable output. Data curation, content generation and recurring reports.
+**Spec-driven development (SDD)**
+Before generating code with AI, I write the spec: what changes, why it changes, and what counts as done.
+I use [OpenSpec](https://github.com/Fission-AI/openspec) to keep that cycle inside the repository itself —
+propose, implement, archive — so the agent works against an explicit contract instead of guessing intent.
+The archived spec becomes the description of the system's current state, and that is what holds the standard in
+place: same structure, same conventions, same level of testing, regardless of who — or which agent — ran the
+task. What's left behind isn't just code; it's the documentation explaining why the code looks that way.
 
 ### Stack
 
 | | |
 | :-- | :-- |
-| **Front-end** | Angular · TypeScript · RxJS · Tailwind CSS · HTML/CSS |
-| **Back-end & data** | Node.js · REST APIs · SQL |
-| **Automation & AI** | Claude Code · MCP · Python |
-| **Tooling** | Git · Docker · CI/CD · Azure |
+| **Front-end** | Angular · React · Next.js · TypeScript · RxJS · Tailwind CSS |
+| **Back-end** | Node.js · NestJS · Python · FastAPI · REST APIs |
+| **Data** | PostgreSQL · MySQL · MongoDB |
+| **AI & specs** | Claude Code · MCP · OpenSpec · SDD |
+| **Tooling** | Git · Docker · CI/CD |
 
 ### Selected projects
 
 | Project | What it solves | Stack |
 | :-- | :-- | :-- |
-| [repo-name](https://github.com/Lftho/repo-name) | One sentence about the problem, not the code. | Angular, TypeScript |
-| [repo-name](https://github.com/Lftho/repo-name) | One sentence about the problem, not the code. | Node.js, API |
-| [repo-name](https://github.com/Lftho/repo-name) | One sentence about the problem, not the code. | Python, MCP |
+| [repo-name](https://github.com/Lftho/repo-name) | One sentence about the problem, not the code. | Next.js, NestJS |
+| [repo-name](https://github.com/Lftho/repo-name) | One sentence about the problem, not the code. | FastAPI, PostgreSQL |
+| [repo-name](https://github.com/Lftho/repo-name) | One sentence about the problem, not the code. | Python, MCP, OpenSpec |
 
 ### Currently learning
 
